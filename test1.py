@@ -1,4 +1,4 @@
-#sampletestprogram
+#sample test program
 import unittest
 
 def multiply(a, b):
